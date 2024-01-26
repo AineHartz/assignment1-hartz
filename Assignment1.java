@@ -19,7 +19,7 @@ public class Assignment1
 		
 		//Question 2 examples.
 	//	solver.substring("spy family", "jujutzu");
-		solver.substring("gears of war", "History of warriors");
+	//	solver.substring("gears of war", "History of warriors");
 	//	solver.substring("spy family", "jujutsu kaisen");
 		
 		//Question 3 example. 
